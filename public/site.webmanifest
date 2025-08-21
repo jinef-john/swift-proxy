@@ -19,10 +19,10 @@
   "display": "standalone",
   "dir": "left",
   "lang": "en-US",
-  "start_url": "/proxy-crawl/",
-  "scope": "/proxy-crawl/",
+  "start_url": "/swift-proxy/",
+  "scope": "/swift-proxy/",
   "description": "Scrape proxies from all over the world in your browser",
-  "id": "vwh-proxy-crawl",
-  "name": "Proxy Crawl",
-  "short_name": "Proxy Crawl"
+  "id": "jinef-john-swift-proxy",
+  "name": "Swift Proxy",
+  "short_name": "Swift Proxy"
 }

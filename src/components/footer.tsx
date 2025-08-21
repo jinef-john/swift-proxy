@@ -6,7 +6,7 @@ export default function Footer() {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/vwh/proxy-crawl"
+            href="https://github.com/jinef-john/swift-proxy"
             className="hover:underline"
           >
             <strong className="text-sm text-primary">

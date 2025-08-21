@@ -1,5 +1,5 @@
 {
-  "name": "proxy-crawl",
+  "name": "swift-proxy",
   "private": true,
   "type": "module",
   "scripts": {
