@@ -1,17 +1,17 @@
 <div align="center">
 
-# Proxy Crawl
+# Swift Proxy
 Scrape proxies from all over the world directly in your browser
 
-[![License](https://img.shields.io/github/license/vwh/proxy-crawl?label=License)](https://github.com/vwh/proxy-crawl/blob/main/LICENSE)
-[![CodeQL](https://github.com/vwh/proxy-crawl/actions/workflows/codeql.yml/badge.svg)](https://github.com/vwh/proxy-crawl/actions/workflows/codeql.yml)
-[![Format Check](https://github.com/vwh/proxy-crawl/actions/workflows/format.yml/badge.svg)](https://github.com/vwh/proxy-crawl/actions/workflows/format.yml)
-[![Lint](https://github.com/vwh/proxy-crawl/actions/workflows/lint.yml/badge.svg)](https://github.com/vwh/proxy-crawl/actions/workflows/lint.yml)
+[![License](https://img.shields.io/github/license/jinef-john/swift-proxy?label=License)](https://github.com/jinef-john/swift-proxy/blob/main/LICENSE)
+[![CodeQL](https://github.com/jinef-john/swift-proxy/actions/workflows/codeql.yml/badge.svg)](https://github.com/jinef-john/swift-proxy/actions/workflows/codeql.yml)
+[![Format Check](https://github.com/jinef-john/swift-proxy/actions/workflows/format.yml/badge.svg)](https://github.com/jinef-john/swift-proxy/actions/workflows/format.yml)
+[![Lint](https://github.com/jinef-john/swift-proxy/actions/workflows/lint.yml/badge.svg)](https://github.com/jinef-john/swift-proxy/actions/workflows/lint.yml)
 </div>
 
 <div align="center">
-  <a href="https://vwh.github.io/proxy-crawl/" target="_blank">
-      <img src="https://github.com/user-attachments/assets/2d3ce0b3-a061-4e7f-be33-e16d12ecfc75" alt="Proxy Crawl Preview">
+  <a href="https://jinef-john.github.io/swift-proxy/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/2d3ce0b3-a061-4e7f-be33-e16d12ecfc75" alt="Swift Proxy Preview">
   </a>
 </div>
 
@@ -64,4 +64,4 @@ Contributions are welcome! Feel free to open a pull request with your improvemen
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/vwh/proxy-crawl/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/jinef-john/swift-proxy/blob/main/LICENSE) for more information.
