@@ -9,7 +9,11 @@ import { VitePWA } from "vite-plugin-pwa";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/swift-proxy/",
+  base:
+    process.env.NODE_ENV === "production" &&
+    process.env.DEPLOY_TARGET === "github"
+      ? "/swift-proxy/"
+      : "/",
   plugins: [
     compression(),
     react(),
